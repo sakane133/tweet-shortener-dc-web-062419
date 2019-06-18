@@ -5,6 +5,6 @@ string.split.map do |words|
     dictionary[word]
   else 
     word
-
-
+end 
+end 
 end
