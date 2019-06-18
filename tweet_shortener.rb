@@ -1,2 +1,2 @@
 # Write your code here.
-def dictionary
+def dictionary(hash)
