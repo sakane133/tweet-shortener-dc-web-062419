@@ -38,3 +38,5 @@ def selective_tweet_shortener(words)
     words
   end
 end
+
+def shortened_tweet_truncator
