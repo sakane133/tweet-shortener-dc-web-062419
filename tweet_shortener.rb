@@ -16,6 +16,6 @@ def dictionary(hash)
 end 
 
 def word_substituter(string)
-  
+  string.split.map do ||
   
 end
