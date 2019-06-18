@@ -1,4 +1,5 @@
 # Write your code here.
+
 def dictionary(hash)
   dictionary = {
     
@@ -13,3 +14,8 @@ def dictionary(hash)
   "and" => "&"
   }
 end 
+
+def word_substituter(string)
+  
+  
+end
