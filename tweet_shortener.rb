@@ -1,6 +1,6 @@
 # Write your code here.
 
-def dictionary(hash)
+def dictionary
   dictionary = {
     
    "too" => "2",
