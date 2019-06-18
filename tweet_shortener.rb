@@ -17,6 +17,7 @@ end
 
 def word_substituter(string)
   string.split.map do |words|
-    if dictionary.include?
+    if dictionary.include?(word)
+      
   
 end
