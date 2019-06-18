@@ -6,5 +6,5 @@ string.split.map do |words|
   else 
     word
 end 
-end 
+end.join("")
 end
