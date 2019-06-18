@@ -7,5 +7,4 @@ string.split.map do |words|
     word
 end 
 end.join("")
-end
-end
+
