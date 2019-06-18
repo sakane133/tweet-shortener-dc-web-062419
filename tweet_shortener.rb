@@ -18,10 +18,9 @@ end
 def word_substituter(string)
   string.split.map do |words|
     if dictionary.include?(word.downcase)
-      dictionary[word.downcase]
+      word = dictionary[word.downcase]
       else 
         word
       end
     end.join("")
-  
 end
