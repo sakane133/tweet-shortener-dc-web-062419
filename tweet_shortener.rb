@@ -22,6 +22,6 @@ def word_substituter(string)
       else 
         word
       end
-    end
+    end.join("")
   
 end
