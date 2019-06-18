@@ -1,5 +1,5 @@
 # Write your code here.
-word_substituter()
+word_substituter(string)
 
 
 end
