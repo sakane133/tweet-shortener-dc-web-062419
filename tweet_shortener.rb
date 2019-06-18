@@ -21,6 +21,7 @@ def word_substituter(string)
       dictionary[word.downcase]
       else 
         word
-      
+      end
+    end
   
 end
